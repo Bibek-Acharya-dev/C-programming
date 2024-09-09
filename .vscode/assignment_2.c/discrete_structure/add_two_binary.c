@@ -1,3 +1,4 @@
+//binary addition
 #include<stdio.h>
 void main(){
     long binary1,binary2;
