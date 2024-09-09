@@ -1,4 +1,4 @@
-//to find the complement of fuzzy set
+//fuzzy set union intersection and complement
 #include<stdio.h>
 int main(){
     int funiverse[5],i;
