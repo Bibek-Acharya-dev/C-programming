@@ -1,4 +1,4 @@
-//WAP to generate the truth table for (pvq)n(~pvr)n(p<=>s)=>(rvs)
+//WAP to generate the truth table for (pvq)n(~pvr)n(p<=>s)=>(rvs
 #include<stdio.h>
 int pbicons(int p[],int s[],int i);
 int conditional(int exp2[],int rvs[],int i);
